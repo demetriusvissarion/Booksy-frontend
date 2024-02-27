@@ -45,7 +45,7 @@
 }
 
 .category-card img {
-    width: 100%; /* Make the image fill the width of the card */
+    width: auto; /* Make the image fill the width of the card */
     height: auto; /* Maintain aspect ratio */
 }
 
